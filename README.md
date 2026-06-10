@@ -3,7 +3,7 @@
 ## Descripcion
 Este proyecto implementa un sistema CRUD (Create, Read, Update, Delete) que permite gestionar información de manera eficiente mediante las operaciones básicas de creación, consulta, actualización y eliminación de registros. La aplicación facilita la administración de datos a través de una interfaz intuitiva, garantizando un manejo organizado y dinámico de la información almacenada.
 
-Las funcionalidades principales incluyen:
+Las funcionalidades principales son:
 
 Crear: Registrar nuevos datos en el sistema.
 Leer: Consultar y visualizar los registros existentes.
