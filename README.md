@@ -1,5 +1,17 @@
 # Proyecto Containers
 
+## Descripcion
+Este proyecto implementa un sistema CRUD (Create, Read, Update, Delete) que permite gestionar información de manera eficiente mediante las operaciones básicas de creación, consulta, actualización y eliminación de registros. La aplicación facilita la administración de datos a través de una interfaz intuitiva, garantizando un manejo organizado y dinámico de la información almacenada.
+
+Las funcionalidades principales incluyen:
+
+Crear: Registrar nuevos datos en el sistema.
+Leer: Consultar y visualizar los registros existentes.
+Actualizar: Modificar la información de registros previamente creados.
+Eliminar: Borrar registros que ya no sean necesarios.
+
+Este CRUD fue desarrollado con el objetivo de fortalecer las competencias en desarrollo de software, aplicando conceptos de programación, gestión de datos y diseño de aplicaciones.
+
 ## Código duplicado o poco mantenible: 
 
 **Dónde:**
