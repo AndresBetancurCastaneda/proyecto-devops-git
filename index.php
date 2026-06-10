@@ -5,7 +5,7 @@ $usuarios = json_decode(file_get_contents("data/usuarios.json"), true);
 <!DOCTYPE html>
 <html>
 <head>
-    <title>CRUD</title>
+    <title>Proyecto CRUD de Devops</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body class="container mt-5">
